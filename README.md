@@ -17,7 +17,7 @@ rm - Removes a folder or file
 <br>
 <h2>Git commands</h2> 
 <br>
-// Initializes the local directory as a repository
+// Initializes the local directory as a repository<br>
 1) git init 
 <br><br>
 // Start tracking files <br>
@@ -39,3 +39,5 @@ rm - Removes a folder or file
 7) git add .
 <br><br>
 rm -rf .git (Removes all configuration)
+<br><br>
+<h4>To refresh files please follow steps 2, 3 and 5.
