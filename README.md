@@ -32,10 +32,10 @@ rm - Removes a folder or file
 // Uploads every change to github <br>
 5) git push -u origin master git push -u origin main
 <br><br>
-// Show the current file tracking status git status
+// Show the current file tracking status git status <br>
 6) git status
 <br><br>
-// add all the elements on the folder
+// add all the elements on the folder <br>
 7) git add .
 <br><br>
 rm -rf .git (Removes all configuration)
